@@ -1,11 +1,11 @@
 # Netflix Data Cleaning with Python (Pandas)
 
-This project performs data cleaning on the Netflix Movies and TV Shows dataset from Kaggle.
+This project performs data cleaning and preprocessing on the Netflix Movies and TV Shows dataset from Kaggle.
 
 ##  Tasks Performed
 - Handled missing values
 - Removed duplicate entries
-- Standardized text (lowercase, title case, etc.)
+- Standardized text (e.g., lowercase, title case, etc.)
 - Converted 'date_added' column to datetime format
 - Renamed columns for consistency
 - Exported the cleaned dataset
